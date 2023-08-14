@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Goorm-React-Netflix-Clone/static/css/main.1b634914.css",
+    "main.js": "/Goorm-React-Netflix-Clone/static/js/main.470f9fbe.js",
+    "static/js/787.7d8a7a6f.chunk.js": "/Goorm-React-Netflix-Clone/static/js/787.7d8a7a6f.chunk.js",
+    "index.html": "/Goorm-React-Netflix-Clone/index.html",
+    "main.1b634914.css.map": "/Goorm-React-Netflix-Clone/static/css/main.1b634914.css.map",
+    "main.470f9fbe.js.map": "/Goorm-React-Netflix-Clone/static/js/main.470f9fbe.js.map",
+    "787.7d8a7a6f.chunk.js.map": "/Goorm-React-Netflix-Clone/static/js/787.7d8a7a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b634914.css",
+    "static/js/main.470f9fbe.js"
+  ]
+}
